@@ -775,9 +775,6 @@
     <Content Include="Content\SiteLayout\img\Aday2.png" />
     <Content Include="Content\SiteLayout\img\Aday3.png" />
     <Content Include="Content\SiteLayout\img\Aday4.png" />
-    <Content Include="Content\SiteLayout\img\Aday5.png" />
-    <Content Include="Content\SiteLayout\img\Aday6.png" />
-    <Content Include="Content\SiteLayout\img\Aday7.png" />
     <Content Include="Content\SiteLayout\img\avatar.png" />
     <Content Include="Content\SiteLayout\img\bg_direction_nav.png" />
     <Content Include="Content\SiteLayout\img\glyphicons-halflings-white.png" />
